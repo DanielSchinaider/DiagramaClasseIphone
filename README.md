@@ -59,4 +59,4 @@ public class TesteIPhone {
 
 ### Diagrama de Classe da aplicação
 
-![Diagrama do Iphone](.\Iphone\src\main\resources\Iphone.jpg)
+![Diagrama do Iphone](Iphone/src/main/resources/Iphone.jpg)
